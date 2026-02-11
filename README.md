@@ -61,16 +61,6 @@ The project follows a structured architecture with:
 
 ---
 
-##  Database Schema
-
-### AUTHOR_TBL
-
-```sql
-CREATE TABLE AUTHOR_TBL(
-    AUTHOR_CODE NUMBER(5) PRIMARY KEY,
-    AUTHOR_NAME VARCHAR2(20) NOT NULL,
-    CONTACT_NO NUMBER(10)
-);
 
 <img width="379" height="183" alt="image" src="https://github.com/user-attachments/assets/26d4c8c7-90ea-4893-8196-a89e7cab6afb" />
 <img width="401" height="349" alt="image" src="https://github.com/user-attachments/assets/47b0639e-6435-48c8-9e67-12ca4baf01f5" />
